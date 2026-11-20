@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="230" viewBox="0 0 1180 230">
+<rect width="1180" height="230" rx="8" fill="#1e1e1e"/>
+<text x="16" y="32" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9cdcfe" xml:space="preserve">buiquanghuy-front.zip › annotations.xml (CVAT for images 1.1)</text>
+<text x="16" y="54" font-family="Consolas, Menlo, monospace" font-size="15" fill="#d4d4d4" xml:space="preserve"></text>
+<text x="16" y="76" font-family="Consolas, Menlo, monospace" font-size="15" fill="#d4d4d4" xml:space="preserve">&lt;image id=&quot;0&quot; name=&quot;A01_bc5fadac-fa6dd225.jpg&quot; width=&quot;1280&quot; height=&quot;720&quot;&gt;</text>
+<text x="16" y="98" font-family="Consolas, Menlo, monospace" font-size="15" fill="#ffd400" xml:space="preserve">    &lt;polyline label=&quot;lane&quot; source=&quot;manual&quot; occluded=&quot;0&quot; points=&quot;655.08,679.07;580.30,626.70;457.50,540.30;420.50,513.70&quot; z_order=&quot;0&quot;&gt;</text>
+<text x="16" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#d4d4d4" xml:space="preserve">      &lt;attribute name=&quot;position&quot;&gt;R1&lt;/attribute&gt;</text>
+<text x="16" y="142" font-family="Consolas, Menlo, monospace" font-size="15" fill="#d4d4d4" xml:space="preserve">      &lt;attribute name=&quot;style&quot;&gt;dashed&lt;/attribute&gt;</text>
+<text x="16" y="164" font-family="Consolas, Menlo, monospace" font-size="15" fill="#d4d4d4" xml:space="preserve">      &lt;attribute name=&quot;color&quot;&gt;white&lt;/attribute&gt;</text>
+<text x="16" y="186" font-family="Consolas, Menlo, monospace" font-size="15" fill="#d4d4d4" xml:space="preserve">      &lt;attribute name=&quot;kind&quot;&gt;single&lt;/attribute&gt;</text>
+<text x="16" y="208" font-family="Consolas, Menlo, monospace" font-size="15" fill="#ffd400" xml:space="preserve">    &lt;/polyline&gt;</text>
+</svg>
