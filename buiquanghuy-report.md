@@ -60,8 +60,8 @@ Nếu sau buffer nhận được phiếu, tôi sẽ cập nhật mục này và 
 ## 5. Kiểm file export
 | File | Mở lại được? | Số shape ảnh 1 (job / file) | Số shape ảnh 2 (job / file) | Tag camera có trong XML? |
 | --- | --- | --- | --- | --- |
-| `buiquanghuy-front.zip` | Có. `road_check lint` đọc đủ 12 ảnh; zip chỉ có `annotations.xml`, `contains_images=false` | A01: __ / 9 | A02: __ / 8 | Có, 12/12 ảnh `camera=front` |
-| `buiquanghuy-fisheye.zip` | Có. `road_check lint` đọc đủ 8 ảnh; zip chỉ có `annotations.xml`, `contains_images=false` | B01: __ / 7 | B02: __ / 13 | Có, 8/8 ảnh, đúng hậu tố: FV→`fisheye_front`, RV→`fisheye_rear`, MVL→`fisheye_left`, MVR→`fisheye_right` |
+| `buiquanghuy-front.zip` | Có. `road_check lint` đọc đủ 12 ảnh; zip chỉ có `annotations.xml`, `contains_images=false` | A01: 9 / 9 | A02: 8 / 8 | Có, 12/12 ảnh `camera=front` |
+| `buiquanghuy-fisheye.zip` | Có. `road_check lint` đọc đủ 8 ảnh; zip chỉ có `annotations.xml`, `contains_images=false` | B01: 7 / 7 | B02: 13 / 13 | Có, 8/8 ảnh, đúng hậu tố: FV→`fisheye_front`, RV→`fisheye_rear`, MVL→`fisheye_left`, MVR→`fisheye_right` |
 
 Lint lần cuối: 20 ảnh, 3 cảnh báo, đều là QC1-02 ở A05 (L1, R1) và A07 (L1), hai ảnh không có vạch để vẽ (xem mục 3). Không còn cảnh báo mức chính hay nhẹ.
 
